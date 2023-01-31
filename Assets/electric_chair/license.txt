@@ -1,0 +1,11 @@
+Model Information:
+* title:	electric chair
+* source:	https://sketchfab.com/3d-models/electric-chair-087ab4f533934b0ca75018c2d0682eed
+* author:	Hipnoposer (https://sketchfab.com/Hipnoposer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "electric chair" (https://sketchfab.com/3d-models/electric-chair-087ab4f533934b0ca75018c2d0682eed) by Hipnoposer (https://sketchfab.com/Hipnoposer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

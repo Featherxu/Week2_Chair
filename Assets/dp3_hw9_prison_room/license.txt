@@ -1,0 +1,11 @@
+Model Information:
+* title:	DP3 HW#9 Prison room
+* source:	https://sketchfab.com/3d-models/dp3-hw9-prison-room-9d2f42db20814a02a87ad4cc5e031698
+* author:	Choopa (https://sketchfab.com/Choopa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DP3 HW#9 Prison room" (https://sketchfab.com/3d-models/dp3-hw9-prison-room-9d2f42db20814a02a87ad4cc5e031698) by Choopa (https://sketchfab.com/Choopa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
